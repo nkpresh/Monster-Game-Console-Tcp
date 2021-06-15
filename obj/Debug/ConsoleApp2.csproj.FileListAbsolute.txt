@@ -1,0 +1,7 @@
+C:\Users\Codark7\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Codark7\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Codark7\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Codark7\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Codark7\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Codark7\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Codark7\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
